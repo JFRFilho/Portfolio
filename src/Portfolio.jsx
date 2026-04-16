@@ -106,7 +106,7 @@ export default function PortfolioJoaoRamos() {
 
             <div className="space-y-4">
               <h1 className="text-4xl font-semibold tracking-tight md:text-6xl">
-                Joao Ramos
+                João Ramos
               </h1>
               <p className="max-w-xl text-base leading-7 text-white/70 md:text-lg">
                 Desenvolvedor focado em criar aplicacoes web modernas,
