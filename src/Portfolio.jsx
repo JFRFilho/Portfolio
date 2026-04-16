@@ -101,7 +101,7 @@ export default function PortfolioJoaoRamos() {
         <div className="grid items-center gap-12 md:grid-cols-2">
           <div className="space-y-6">
             <span className="inline-flex rounded-full border border-white/15 bg-white/5 px-4 py-1 text-sm text-white/80">
-              Desenvolvedor Web Full Stack Python
+              Full Stack Python Web Developer
             </span>
 
             <div className="space-y-4">
